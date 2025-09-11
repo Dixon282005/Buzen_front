@@ -12,7 +12,7 @@ function Nav() {
         <div className="flex justify-start w-full md:w-auto order-1 md:order-1">
           <a href="/">
             <img
-              src="./public/Buzen-logo.png"
+              src="/Buzen-logo.png"
               alt="Logo"
               className="h-16 md:h-20 w-16 md:w-20 opacity-90 hover:opacity-100 transition-opacity dark:invert"
             />
